@@ -1,0 +1,9 @@
+.Home {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40%;
+  height: 100vh;
+  background-color: #005386;
+  font-weight: bold;
+}
