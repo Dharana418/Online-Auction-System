@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2eb54ae-e3bb-4ea9-b060-d921a3794454" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Online Auction System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/data_sources_history.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/OnlineAuctionSystem/demo/config/securityconfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/onlineauctionsystem/HomePage/HomePage.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/onlineauctionsystem/HomePage/Homepage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/onlineauctionsystem/src/HomePage/HomePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/onlineauctionsystem/src/HomePage/HomePage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/OnlineAuctionSystem/demo/config/securityconfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/OnlineAuctionSystem/demo/config/securityconfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,20 +21,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Authentication-and-Authorization" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Dharana418"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dharana418&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Dharana418/Online-Auction-System.git",
-    "accountId": "f9433351-9d24-4d0a-815a-36fd31b6f0b6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dharana418/Online-Auction-System.git&quot;,
+    &quot;accountId&quot;: &quot;f9433351-9d24-4d0a-815a-36fd31b6f0b6&quot;
   }
-}]]></component>
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -62,91 +53,95 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3395826502052903" />
-      <entry key="MS500" value="3.007281989084996" />
-      <entry key="S2" value="5.4947306630599995" />
-      <entry key="S5" value="8.118202953115546" />
-      <entry key="S10" value="10.013441891782529" />
-      <entry key="S30" value="12.213767290134466" />
-      <entry key="S60" value="14.097112611311799" />
-      <entry key="M2" value="16.5134438973438" />
-      <entry key="M5" value="19.223761226453245" />
-      <entry key="M10" value="20.48775815260049" />
-      <entry key="M15" value="20.961752294067097" />
-      <entry key="M30" value="21.46514945009827" />
-      <entry key="H1" value="21.728509048212032" />
-      <entry key="H2" value="21.8632208206713" />
-      <entry key="H4" value="21.93134978962061" />
-      <entry key="D1" value="21.98852191303727" />
-      <entry key="W1" value="21.998359379762782" />
+      <entry key="MS100" value="1.8267522064644996E-10" />
+      <entry key="MS500" value="0.011448377044295577" />
+      <entry key="S2" value="0.43972059500784416" />
+      <entry key="S5" value="1.0726341675311541" />
+      <entry key="S10" value="1.5729832474865388" />
+      <entry key="S30" value="2.7326331866821807" />
+      <entry key="S60" value="4.479330475757791" />
+      <entry key="M2" value="7.4365424804476286" />
+      <entry key="M5" value="11.692603532228574" />
+      <entry key="M10" value="14.008902831171381" />
+      <entry key="M15" value="15.136339985005407" />
+      <entry key="M30" value="19.876722069705327" />
+      <entry key="H1" value="33.086990228257875" />
+      <entry key="H2" value="50.840198992618426" />
+      <entry key="H4" value="65.72669239580492" />
+      <entry key="D1" value="82.90595275981208" />
+      <entry key="W1" value="86.40007725430775" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="9.898219358375815E-95" />
-      <entry key="S2" value="3.1670609483101807E-24" />
-      <entry key="S5" value="4.432669829185843E-10" />
-      <entry key="S10" value="2.782041406939389E-5" />
-      <entry key="S30" value="0.05666123553464918" />
-      <entry key="S60" value="0.4054488026436505" />
-      <entry key="M2" value="1.098059948834229" />
-      <entry key="M5" value="2.0047395076235803" />
-      <entry key="M10" value="2.4519491693891458" />
-      <entry key="M15" value="2.6223902541475916" />
-      <entry key="M30" value="2.8047914611368907" />
-      <entry key="H1" value="2.900739547077759" />
-      <entry key="H2" value="2.9499486087479077" />
-      <entry key="H4" value="2.9748681098063186" />
-      <entry key="D1" value="2.9957965250776506" />
-      <entry key="W1" value="2.999399139470726" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000886" />
+      <entry key="S2" value="1.0006043841467893" />
+      <entry key="S5" value="1.069957734860482" />
+      <entry key="S10" value="1.3763295982803128" />
+      <entry key="S30" value="2.3833068404943694" />
+      <entry key="S60" value="3.1760200556589746" />
+      <entry key="M2" value="4.004091219632034" />
+      <entry key="M5" value="4.942628169110239" />
+      <entry key="M10" value="5.410027968656808" />
+      <entry key="M15" value="5.597306185044998" />
+      <entry key="M30" value="5.925606728622588" />
+      <entry key="H1" value="6.535911736162354" />
+      <entry key="H2" value="7.335667615458852" />
+      <entry key="H4" value="8.01487587007836" />
+      <entry key="D1" value="8.809182846906221" />
+      <entry key="W1" value="8.97200389668663" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.2770554233351978" />
-      <entry key="MS500" value="2.9441520601910347" />
-      <entry key="S2" value="5.458197043100527" />
-      <entry key="S5" value="8.091300851718529" />
-      <entry key="S10" value="9.995216924391883" />
-      <entry key="S30" value="12.248049932318827" />
-      <entry key="S60" value="14.456352119181322" />
-      <entry key="M2" value="17.556291983641188" />
-      <entry key="M5" value="21.189999939003112" />
-      <entry key="M10" value="22.9164345987153" />
-      <entry key="M15" value="23.56760682337724" />
-      <entry key="M30" value="24.261127247028742" />
-      <entry key="H1" value="24.624698258192126" />
-      <entry key="H2" value="24.81085746644785" />
-      <entry key="H4" value="24.905052602214756" />
-      <entry key="D1" value="24.984122918010076" />
-      <entry key="W1" value="24.997730555725813" />
+      <entry key="MS100" value="8.268997191042389E-4" />
+      <entry key="MS500" value="0.24256517624116594" />
+      <entry key="S2" value="0.9284043652077093" />
+      <entry key="S5" value="1.7484346548702097" />
+      <entry key="S10" value="2.64641571123833" />
+      <entry key="S30" value="4.9265388734262965" />
+      <entry key="S60" value="7.511589294810764" />
+      <entry key="M2" value="11.33595529968307" />
+      <entry key="M5" value="16.576780774759484" />
+      <entry key="M10" value="19.385429084337133" />
+      <entry key="M15" value="20.71015436031783" />
+      <entry key="M30" value="25.7895258338889" />
+      <entry key="H1" value="39.615486302634736" />
+      <entry key="H2" value="58.17149282562528" />
+      <entry key="H4" value="73.7390989546844" />
+      <entry key="D1" value="91.71466907967294" />
+      <entry key="W1" value="95.37201289560863" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3EqTkLKZYkHMpLdL8lQR9Gob5Fk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "Spring Boot.DemoApplication.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.DemoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -172,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780905245403</updated>
-      <workItem from="1780905249070" duration="4037000" />
+      <workItem from="1780905249070" duration="6360000" />
     </task>
     <servers />
   </component>
