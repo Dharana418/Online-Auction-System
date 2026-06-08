@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2eb54ae-e3bb-4ea9-b060-d921a3794454" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/OnlineAuctionSystem/demo/config/securityconfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/onlineauctionsystem/HomePage/HomePage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/onlineauctionsystem/HomePage/Homepage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/onlineauctionsystem/src/HomePage/HomePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/onlineauctionsystem/src/HomePage/HomePage.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Dharana418"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dharana418/Online-Auction-System.git",
+    "accountId": "f9433351-9d24-4d0a-815a-36fd31b6f0b6"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000195835250483" />
+      <entry key="MS500" value="1.1143873978105878" />
+      <entry key="S2" value="1.5945940093301068" />
+      <entry key="S5" value="2.142665866652354" />
+      <entry key="S10" value="2.9589638833039356" />
+      <entry key="S30" value="4.811314235493596" />
+      <entry key="S60" value="6.1361592506433675" />
+      <entry key="M2" value="7.262771989841832" />
+      <entry key="M5" value="8.208343686079314" />
+      <entry key="M10" value="8.585506374612924" />
+      <entry key="M15" value="8.719309140926798" />
+      <entry key="M30" value="8.857417414688108" />
+      <entry key="H1" value="8.928138593736637" />
+      <entry key="H2" value="8.963925390807269" />
+      <entry key="H4" value="8.981926545120352" />
+      <entry key="D1" value="8.996982721825407" />
+      <entry key="W1" value="8.999568836743867" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="8.587397088063653E-136" />
+      <entry key="MS500" value="9.700012841574715E-28" />
+      <entry key="S2" value="1.771985770101935E-7" />
+      <entry key="S5" value="0.0022171082972374675" />
+      <entry key="S10" value="0.06221918977009565" />
+      <entry key="S30" value="0.7409796729322313" />
+      <entry key="S60" value="1.466209905374208" />
+      <entry key="M2" value="2.0881231809347" />
+      <entry key="M5" value="2.592447525949614" />
+      <entry key="M10" value="2.7882870096246792" />
+      <entry key="M15" value="2.8570291009457875" />
+      <entry key="M30" value="2.9275832081303905" />
+      <entry key="H1" value="2.9635555441417596" />
+      <entry key="H2" value="2.9817183489299826" />
+      <entry key="H4" value="2.9908442673362936" />
+      <entry key="D1" value="2.9984719697485276" />
+      <entry key="W1" value="2.9997816590953366" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.4122941078731934E-5" />
+      <entry key="MS500" value="0.14563247202590823" />
+      <entry key="S2" value="0.9999916661439864" />
+      <entry key="S5" value="1.8003764082684444" />
+      <entry key="S10" value="2.7731667815204104" />
+      <entry key="S30" value="5.358766637209105" />
+      <entry key="S60" value="7.449810764761102" />
+      <entry key="M2" value="9.249843747374072" />
+      <entry key="M5" value="10.752095602706204" />
+      <entry key="M10" value="11.347811409417446" />
+      <entry key="M15" value="11.558632172019454" />
+      <entry key="M30" value="11.775949517198338" />
+      <entry key="H1" value="11.887117971004773" />
+      <entry key="H2" value="11.943342863160577" />
+      <entry key="H4" value="11.971617158266833" />
+      <entry key="D1" value="11.99526196771976" />
+      <entry key="W1" value="11.99932295286514" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3EqTkLKZYkHMpLdL8lQR9Gob5Fk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.OnlineAuctionSystem.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2eb54ae-e3bb-4ea9-b060-d921a3794454" name="Changes" comment="" />
+      <created>1780905245403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780905245403</updated>
+      <workItem from="1780905249070" duration="3540000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
